@@ -19,11 +19,11 @@ Resources from my Velocity 2012 talk, Michelin Starred Cooking with Chef
 7. knife-lastrun: https://github.com/jgoulah/knife-lastrun
 
 8. Chef Testing Resources:
-	
-	* Test-driven Development for Chef Practitioners: http://www.youtube.com/watch?v=o2e0aZUAVGw
-	* Foodfight Show Episode 10: TESTALLTHETHINGS: http://traffic.libsyn.com/foodfight/ffs10.mp3
-	* Foodfight Show Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol: http://traffic.libsyn.com/foodfight/FoodFightShowEpisode17.mp3
-
+````
+	Test-driven Development for Chef Practitioners: http://www.youtube.com/watch?v=o2e0aZUAVGw
+	Foodfight Show Episode 10: TESTALLTHETHINGS: http://traffic.libsyn.com/foodfight/ffs10.mp3
+	Foodfight Show Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol: http://traffic.libsyn.com/foodfight/FoodFightShowEpisode17.mp3
+````
 9.  Etsy Foodcritic Rules: https://github.com/etsy/foodcritic-rules
 
 
