@@ -26,4 +26,6 @@ Resources from my Velocity 2012 talk, Michelin Starred Cooking with Chef
 ````
 9.  Etsy Foodcritic Rules: https://github.com/etsy/foodcritic-rules
 
+10.  Knife Spork: https://github.com/jonlives/knife-spork
+
 
